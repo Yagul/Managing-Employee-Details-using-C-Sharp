@@ -17,7 +17,7 @@ namespace SDD_Menu
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TreeViewForm());
+            Application.Run(new SigninForm());
         }
     }
 }
